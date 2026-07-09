@@ -1,6 +1,6 @@
 # 🗑️ TIW: Today I Wasted (今天我又浪费了什么)
 
-🇺🇸 [English](README.md) | 🇰🇷 [한국어](README-kr.md) | 🇨🇳 [中文](README-cn.md)
+🇺🇸 [English](README.md) | 🇰🇷 [한국어](README-kr.md) | 🇨🇳 [中文](README-cn.md) | 🇪🇸 [Español](README-es.md) | 🇸🇦 [العربية](README-ar.md) | ⚪ [Toki Pona](README-tok.md)
 
 > *"明明5分钟就能搞定，为什么非要花4个小时去自动化呢？"*
 
