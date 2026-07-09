@@ -1,6 +1,6 @@
 # 🗑️ TIW: Today I Wasted (오늘 내가 낭비한 것들)
 
-🇺🇸 [English](README.md) | 🇰🇷 [한국어](README-kr.md)
+🇺🇸 [English](README.md) | 🇰🇷 [한국어](README-kr.md) | 🇨🇳 [中文](README-cn.md) | 🇪🇸 [Español](README-es.md) | 🇸🇦 [العربية](README-ar.md) | ⚪ [Toki Pona](README-tok.md)
 
 
 > *"5분이면 끝날 일을 왜 4시간 동안 자동화하는거임?"*
