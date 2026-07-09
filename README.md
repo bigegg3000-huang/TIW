@@ -1,16 +1,17 @@
 # 🤡 TIW: Today I Wasted
 
+🇺🇸 [English](README.md) | 🇰🇷 [한국어](README-kr.md)
+
 > *"Why do it in 5 minutes when I can spend 4 hours automating it?"*
 
 Welcome to the digital graveyard of my productivity. While the overachievers are filling up their **TIL (Today I Learned)** repos with brain wrinkles, I am here documenting the exact moments my last remaining brain cells evaporated. 
 
-If you are looking for efficient code, leave. If you are looking for emotional damage, welcome.
+If you are looking for efficient code — whoever you are — leave now. If you want a mental shock, welcome.
 
 ---
 
 ## 📂 The Waste Basket (What's Actually Inside)
-
-Despite the name, this is a chaotic archive of everything I do. If I spent my limited human lifespan staring at a screen to make it happen, it counts as a waste of time and goes right here.
+This is a chaotic archive of everything I do. If I spent my limited human lifespan staring at a screen to make it happen, it counts as a waste of time and goes right here.
 
 ### 🧮 1. Math & Algorithm Struggles (`/algorithms`)
 *   Coding Problem solutions that probably violate every clean code principle known to mankind.
