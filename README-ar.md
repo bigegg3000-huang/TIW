@@ -1,6 +1,6 @@
 # 🗑️ TIW: Today I Wasted (اليوم أهدرتُ وقتي)
 
-🇺🇸 [English](README.md) | 🇰🇷 [한국어](README-kr.md) | 🇨🇳 [中文](README-cn.md) | 🇪🇸 [Español](README-es.md) | 🇸🇦 [العربية](README-ar.md)
+🇺🇸 [English](README.md) | 🇰🇷 [한국어](README-kr.md) | 🇨🇳 [中文](README-cn.md) | 🇪🇸 [Español](README-es.md) | 🇸🇦 [العربية](README-ar.md) | ⚪ [Toki Pona](README-tok.md)
 
 > *"لماذا أفعل ذلك في 5 دقائق بينما يمكنني قضاء 4 ساعات في أتمتته؟"*
 
