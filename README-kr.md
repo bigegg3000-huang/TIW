@@ -1,4 +1,4 @@
-# 🤡 TIW: Today I Wasted (오늘 내가 낭비한 것들)
+# 🗑️ TIW: Today I Wasted (오늘 내가 낭비한 것들)
 
 🇺🇸 [English](README.md) | 🇰🇷 [한국어](README-kr.md)
 
