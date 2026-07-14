@@ -94,6 +94,10 @@ docker rm 1090f2a3b320
 ```
 + 도커 컨테이너 삭제는 중단 후에만 가능함
 
+도커 여러 개 컨테이너 관리 명령어
+```
+docker compose
+```
 
 docker build -t rsactftool/rsactftool .
 
