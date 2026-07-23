@@ -5,6 +5,7 @@
   <li><a href="http://www.catb.org/~esr/faqs/smart-questions.html">성당과 시장 저자 Eric S. Raymond의 "똑똑하게 질문하는 방법"</a>
 </li>
   <li><a href="https://www.chiark.greenend.org.uk/~sgtatham/bugs.html">PuTTY 개발자 Simon Tatham의 "버그 효과적으로 리포트하는 법"</a></li>
+  <li><a href="https://www.hlevkin.com/hlevkin/90MathPhysBioBooks/Math/Polya/George_Polya_How_To_Solve_It_.pdf">수학자 George Polya의 "어떻게 문제를 풀 것인가"</a></li>
 </ul>
 
 
