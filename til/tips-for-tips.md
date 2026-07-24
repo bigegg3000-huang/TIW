@@ -28,9 +28,4 @@
   <li><a href="https://bentilly.blogspot.com/2009/11/why-i-left-math.html">누군가의 "나는 왜 수학을 그만두었는가"</a></li>
   <li><a href="https://archive.md/HMbYd">누군가의 "현대 학계에 대한 한 젊은 과학자의 좌절: 사직서"</a></li>
   <li><a href="https://naver.me/xm0uCqlp">누군가의 "내가 학계를 떠난 이유"</a></li>
-
-  
-
 </ul>
-
-
